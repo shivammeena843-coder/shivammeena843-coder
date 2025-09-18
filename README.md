@@ -73,19 +73,7 @@ An **interactive sales dashboard** with KPIs and regional insights.
 
 ---
 
-## 📊 GitHub Contribution Summary  
 
-- **Consistent learner** with projects in **SQL, Power BI, and Python**  
-- Regular commits focusing on **data analysis & visualization**  
-- Growing portfolio of **real-world data projects**  
-
-### 🚀 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical)  
-
----
 
 ## 📞 Contact Me  
 
