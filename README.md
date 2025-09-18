@@ -1,86 +1,77 @@
 <div align="center">
  
-# 👋 Hello! I'm Shivam Meena  
+# 📊 Data Analytics Portfolio – Shivam Meena  
 
-#### 📊 Data Analyst | SQL Enthusiast | Power BI & Excel Specialist 🚀  
+#### SQL | Power BI | Excel – Turning Data into Insights 🚀  
 ---
 </div>
 
-## 👨‍💻 About Me  
+## 👤 About Me  
 
-- 📈 Passionate **Data Analyst** skilled in turning raw data into meaningful insights.  
-- 🎯 Strong in **data cleaning, analysis, and visualization** for decision-making.  
-- 🔧 **Languages & Tools:** SQL, Excel, Power BI, Python (Pandas, NumPy, Matplotlib)  
-- 📊 Experienced in building **interactive dashboards** and reports.  
-- 🌱 Continuously learning **advanced analytics & AI-driven insights**.  
-- 🤝 Open to **collaborations, internships, and real-world projects**.  
-- 💬 Ask me about `SQL`, `Power BI`, `Excel`, or anything data-related!  
+Hi, I’m **Shivam Meena** 👋  
+I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data into **actionable insights**.  
 
----
+- 💡 Skills: **SQL • Power BI • Excel • Data Cleaning • Dashboards • Reporting**  
+- 📈 Strong in **data analysis, visualization, and reporting**  
+- 🌱 Currently exploring **advanced analytics and automation**  
 
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/contact-shivam-meena/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shivammeena843@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🔗 **LinkedIn:** [contact-shivam-meena](https://www.linkedin.com/in/contact-shivam-meena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📧 **Email:** [shivammeena843@gmail.com](mailto:shivammeena843@gmail.com)  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
 
-### 📊 Data Analysis & Visualization  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=plotly&logoColor=white)
-
-### 🧪 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Databases:** SQL (Data Cleaning, Joins, Aggregations)  
+- **Visualization:** Power BI (Dashboards, KPIs, Drill-through)  
+- **Spreadsheets:** Excel (Pivot Tables, Charts, Conditional Formatting)  
+- **Data Analysis:** Reporting, Business Insights, Trend Analysis  
 
 ---
 
-## 🚀 Projects  
+## 🗂 Projects  
 
-### 📊 [Sales Dashboard – Power BI](#)  
-An **interactive sales dashboard** with KPIs and regional insights.  
-- 📈 Track revenue, profit, and sales trends  
-- 🌍 Regional performance analysis  
-- 🧩 Dynamic filters and slicers  
+### 🔹 SQL Projects  
+- **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views → [View Code](#)  
+- **Sales Analysis:** Analyzed sales trends by region & time → [View Code](#)  
 
----
+### 🔹 Power BI Dashboards  
+- **Sales Dashboard:** KPIs, monthly trends, slicers, drill-through → [View Dashboard](#)  
+- **HR Dashboard:** Employee attrition, hiring trends, demographics → [View Dashboard](#)  
 
-### 📑 [Excel Data Cleaning Project](#)  
-- 🧹 Cleaned and transformed raw data for analysis  
-- 📊 Used pivot tables, charts, and formulas  
-- 📈 Created summary reports for decision-making  
-
----
-
-### 🐍 [Python Data Analysis Project](#)  
-- 🔍 Explored datasets using Pandas & NumPy  
-- 📊 Visualized trends with Matplotlib  
-- 🎯 Derived insights for business cases  
+### 🔹 Excel Projects  
+- **KPI Tracker:** Pivot Tables, Conditional Formatting, Charts → [Download File](#)  
+- **Budget vs Actual Dashboard:** Budget analysis with interactive charts → [Download File](#)  
 
 ---
 
+## 📜 Certificates  
 
+- 🏅 **SQL Micro Course** – Skill Course E-Learning (16 Sep 2025)  
+- 🏅 **Power BI Essentials** – Skill Course E-Learning (12 June 2025)  
+- 🏅 **Excel Advanced** – Skill Course E-Learning (9 Sep 2025)  
+
+---
+
+## 📂 Portfolio Structure  
+
+- 📂 **SQL Folder** → All SQL scripts  
+- 📂 **PowerBI Folder** → Power BI files & dashboards  
+- 📂 **Excel Folder** → Excel dashboards & reports  
+- 📂 **Certificates Folder** → Certificates & achievements  
+
+---
 
 ## 📞 Contact Me  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammeena843@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-shivam-meena/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-shivam-meena)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)  
 
 ---
 
-###### ✨ Thanks for visiting my profile! Let’s uncover insights from data together 🚀  
+<div align="center">
+
+✨ Thanks for visiting my portfolio! Let’s connect and explore insights together 📊  
+
+</div>
