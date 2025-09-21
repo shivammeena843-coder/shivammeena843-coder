@@ -35,19 +35,19 @@
 
 <p align="center">
  
-**Databases:**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)  
 
 
-**Visualization:**  
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
  
 
-**Spreadsheets:**  
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
 
-**Data Analysis:** ![Analytics](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white)  
+ ![Analytics](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white)  
+ 
 </p>  
 ---
 
