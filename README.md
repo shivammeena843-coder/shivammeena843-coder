@@ -47,8 +47,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
 
-**Data Analysis:**  
-![Analytics](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white)  
+**Data Analysis:** ![Analytics](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white)  
 </p>  
 ---
 
