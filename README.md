@@ -34,10 +34,10 @@
 ## 🛠️ Skills 
 
 <p align="start">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" style="pointer-events: none; margin-right:8px;" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" style="pointer-events: none; margin-right:8px;" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" style="pointer-events: none; margin-right:8px;" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white" style="pointer-events: none; margin-right:8px;" />
 </p>
 
 
