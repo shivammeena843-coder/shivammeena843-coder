@@ -32,6 +32,7 @@ I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data i
 ## 🛠️ Skills 
 
 <p align="center">
+ 
 **Databases:**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)  
 
