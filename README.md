@@ -31,41 +31,37 @@ I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data i
 
 ## 🛠️ Skills 
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-
+<p align="center">
 **Databases:**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)  
-*Data Cleaning, Joins, Aggregations*  
+
 
 **Visualization:**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-*Dashboards, KPIs, Drill-through*  
+ 
 
 **Spreadsheets:**  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-*Pivot Tables, Charts, Conditional Formatting*  
+
 
 **Data Analysis:**  
 ![Analytics](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white)  
-*Reporting, Business Insights, Trend Analysis*  
-
+</p>  
 ---
 
 ## 🗂 Projects  
 
 ### 🔹 SQL Projects  
-- **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views → [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
-- **Sales Analysis:** Analyzed sales trends by region & time →  [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#) 
+- **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views → [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/SQL/SQL_Data_Cleaning_Aggregation.sql)  
+- **Sales Analysis:** Analyzed sales trends by region & time →  [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/SQL/Employee.sql) 
 
 ### 🔹 Power BI Dashboards  
-- **Sales Dashboard:** KPIs, monthly trends, slicers, drill-through → [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)   
-- **HR Dashboard:** Employee attrition, hiring trends, demographics →  [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)   
+- **Sales Dashboard:** KPIs, monthly trends, slicers, drill-through → [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://app.powerbi.com/view?r=example)   
+- **HR Dashboard:** Employee attrition, hiring trends, demographics →  [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://app.powerbi.com/view?r=example)   
 
 ### 🔹 Excel Projects  
-- **KPI Tracker:** Pivot Tables, Conditional Formatting, Charts → [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
-- **Budget vs Actual Dashboard:** Budget analysis with interactive charts →  [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
+- **KPI Tracker:** Pivot Tables, Conditional Formatting, Charts → [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Dashboard.xlsx)  
+- **Budget vs Actual Dashboard:** Budget analysis with interactive charts →  [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Chart.png)  
 
 
 
@@ -77,14 +73,6 @@ I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data i
 - 🏅 **Power BI Essentials** – Skill Course E-Learning (12 June 2025)  
 - 🏅 **Excel Advanced** – Skill Course E-Learning (9 Sep 2025)  
 
----
-
-## 📂 Portfolio Structure  
-
-- 📂 **SQL Folder** → All SQL scripts  
-- 📂 **PowerBI Folder** → Power BI files & dashboards  
-- 📂 **Excel Folder** → Excel dashboards & reports  
-- 📂 **Certificates Folder** → Certificates & achievements  
 
 ---
 
