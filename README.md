@@ -15,33 +15,59 @@ I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data i
 - 📈 Strong in **data analysis, visualization, and reporting**  
 - 🌱 Currently exploring **advanced analytics and automation**  
 
-🔗 **LinkedIn:** [contact-shivam-meena](https://www.linkedin.com/in/contact-shivam-meena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📧 **Email:** [shivammeena843@gmail.com](mailto:shivammeena843@gmail.com)  
 
 ---
+## 🌍 Connect With Me  
 
-## 🛠️ Skills  
+<p align="center">
+  <a href="https://www.linkedin.com/in/contact-shivam-meena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shivammeena843@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>  
 
-- **Databases:** SQL (Data Cleaning, Joins, Aggregations)  
-- **Visualization:** Power BI (Dashboards, KPIs, Drill-through)  
-- **Spreadsheets:** Excel (Pivot Tables, Charts, Conditional Formatting)  
-- **Data Analysis:** Reporting, Business Insights, Trend Analysis  
+
+## 🛠️ Skills 
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+
+**Databases:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)  
+*Data Cleaning, Joins, Aggregations*  
+
+**Visualization:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+*Dashboards, KPIs, Drill-through*  
+
+**Spreadsheets:**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+*Pivot Tables, Charts, Conditional Formatting*  
+
+**Data Analysis:**  
+![Analytics](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=google-analytics&logoColor=white)  
+*Reporting, Business Insights, Trend Analysis*  
 
 ---
 
 ## 🗂 Projects  
 
 ### 🔹 SQL Projects  
-- **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views → [View Code](#)  
-- **Sales Analysis:** Analyzed sales trends by region & time → [View Code](#)  
+- **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views → [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
+- **Sales Analysis:** Analyzed sales trends by region & time →  [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#) 
 
 ### 🔹 Power BI Dashboards  
-- **Sales Dashboard:** KPIs, monthly trends, slicers, drill-through → [View Dashboard](#)  
-- **HR Dashboard:** Employee attrition, hiring trends, demographics → [View Dashboard](#)  
+- **Sales Dashboard:** KPIs, monthly trends, slicers, drill-through → [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)   
+- **HR Dashboard:** Employee attrition, hiring trends, demographics →  [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)   
 
 ### 🔹 Excel Projects  
-- **KPI Tracker:** Pivot Tables, Conditional Formatting, Charts → [Download File](#)  
-- **Budget vs Actual Dashboard:** Budget analysis with interactive charts → [Download File](#)  
+- **KPI Tracker:** Pivot Tables, Conditional Formatting, Charts → [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
+- **Budget vs Actual Dashboard:** Budget analysis with interactive charts →  [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
+
+
 
 ---
 
