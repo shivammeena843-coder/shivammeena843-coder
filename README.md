@@ -53,18 +53,27 @@ I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data i
 ## 🗂 Projects  
 
 ### 🔹 SQL Projects  
-- **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views → [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/SQL/SQL_Data_Cleaning_Aggregation.sql)  
-- **Sales Analysis:** Analyzed sales trends by region & time →  [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/SQL/Employee.sql) 
+- **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views →  
+  [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/SQL/SQL_Data_Cleaning_Aggregation.sql)  
+
+- **Sales Analysis:** Analyzed sales trends by region & time →  
+  [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/SQL/Employee.sql)  
+
 
 ### 🔹 Power BI Dashboards  
-- **Sales Dashboard:** KPIs, monthly trends, slicers, drill-through → [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://app.powerbi.com/view?r=example)   
-- **HR Dashboard:** Employee attrition, hiring trends, demographics →  [![View Dashboard](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://app.powerbi.com/view?r=example)   
+- **Sales Dashboard:** KPIs, monthly trends, slicers, drill-through →  
+  [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=example)  
+
+- **HR Dashboard:** Employee attrition, hiring trends, demographics →  
+  [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=example)  
+
 
 ### 🔹 Excel Projects  
-- **KPI Tracker:** Pivot Tables, Conditional Formatting, Charts → [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Dashboard.xlsx)  
-- **Budget vs Actual Dashboard:** Budget analysis with interactive charts →  [![Download File](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Chart.png)  
+- **KPI Tracker:** Pivot Tables, Conditional Formatting, Charts →  
+  [![Download File](https://img.shields.io/badge/Download%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Dashboard.xlsx)  
 
-
+- **Budget vs Actual Dashboard:** Budget analysis with interactive charts →  
+  [![Download File](https://img.shields.io/badge/Download%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Chart.png)  
 
 ---
 
@@ -81,7 +90,7 @@ I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data i
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammeena843@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-shivam-meena)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder)  
 
 ---
 
