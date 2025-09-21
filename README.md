@@ -72,7 +72,7 @@
 ## 📜 Certificates  
 
 - 🏅 **SQL Micro Course** – Skill Course E-Learning (16 Sep 2025)  
-  [![View Certificate](https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=databricks&logoColor=white)](https://certificate.skillcourse.in/wp-content/uploads/qsm-certificates/145-411-d2748eb8b343730b9b3d96eb22b30249-35-70.pdf)  
+  [![View Certificate](https://img.shields.io/badge/View%20Certificate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificate.skillcourse.in/wp-content/uploads/qsm-certificates/145-411-d2748eb8b343730b9b3d96eb22b30249-35-70.pdf)  
 
 - 🏅 **Power BI Essentials** – Skill Course E-Learning (12 June 2025)  
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://drive.google.com/file/d/1ETihtfu4Dfr9q89M9QkVMRAZdDjL41C7/view?usp=sharing)  
