@@ -1,19 +1,21 @@
 <div align="center">
  
-# 📊 Data Analytics Portfolio – Shivam Meena  
+# 👋 Hello! I'm Shivam Meena  
 
-#### SQL | Power BI | Excel – Turning Data into Insights 🚀  
+#### 🌟 Data Analyst | SQL • Power BI • Excel 🚀  
 ---
-</div>
+</div>  
 
-## 👤 About Me  
 
-Hi, I’m **Shivam Meena** 👋  
-I specialize in **SQL, Power BI, and Excel**, and I love transforming raw data into **actionable insights**.  
 
-- 💡 Skills: **SQL • Power BI • Excel • Data Cleaning • Dashboards • Reporting**  
-- 📈 Strong in **data analysis, visualization, and reporting**  
-- 🌱 Currently exploring **advanced analytics and automation**  
+## 👨‍💻 About Me  
+
+- 📊 Passionate **Data Analyst** skilled in transforming raw data into **actionable insights**  
+- 🔧 **Core Skills:** SQL • Power BI • Excel • Data Cleaning • Dashboards • Reporting  
+- 🎯 Interested in **Data Visualization & Business Intelligence**  
+- 🤝 Open to **collaborations, analytics projects, and internships**  
+- 💬 Ask me about `SQL`, `Power BI`, `Excel`, or anything data-related!  
+
 
 
 ---
