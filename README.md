@@ -67,7 +67,7 @@
 
 - **Budget vs Actual Dashboard:** Budget analysis with interactive charts   
   [![Download File](https://img.shields.io/badge/Download%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Chart.png)  
-- 🏅 **AI for business professionals** – Skill Course HP LIFE (29 September 2025)  
+ 
 ---
 
 ## 📜 Certificates  
@@ -81,7 +81,8 @@
 - 🏅 **Excel Advanced** – Skill Course E-Learning (9 Sep 2025)  
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificate.skillcourse.in/wp-content/uploads/qsm-certificates/90-509-75e10bfa66f455f644b4fd6802a8a0d8-10-20.pdf)  
 
-
+- 🏅 **AI for business professionals** - Skill Course HP LIFE (29 September 2025)  
+  [![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/shivammeena843-coder/SQL-PowerBI-Excel-Projects/blob/main/Certificate/AI%20for%20business%20professionals.png)
 
 ---
 
