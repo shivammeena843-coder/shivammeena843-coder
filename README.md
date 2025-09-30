@@ -2,7 +2,7 @@
  
 # 👋 Hello! I'm Shivam Meena  
 
-#### 🌟 Data Analyst | SQL • Power BI • Excel 🚀  
+#### 🌟 Data Analyst | SQL • Power BI • Excel • AI 🚀  
 ---
 </div>  
 
@@ -67,7 +67,7 @@
 
 - **Budget vs Actual Dashboard:** Budget analysis with interactive charts   
   [![Download File](https://img.shields.io/badge/Download%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Chart.png)  
-
+- 🏅 **AI for business professionals** – Skill Course HP LIFE (29 September 2025)  
 ---
 
 ## 📜 Certificates  
