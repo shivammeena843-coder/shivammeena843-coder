@@ -85,7 +85,7 @@
 - 🏅 **AI for business professionals** - Skill Course HP LIFE (29 September 2025)  
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/shivammeena843-coder/SQL-PowerBI-Excel-Projects/blob/main/Certificate/AI%20for%20business%20professionals.png)
 
-🏅 **Generative AI** – Skill Course E-Learning (15 October 2025)  
+-🏅 **Generative AI** – Skill Course E-Learning (15 October 2025)  
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://certificates.simplicdn.net/share/9173358_95225811760502066773.pdf)
 ---
 
