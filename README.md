@@ -85,10 +85,8 @@
 - 🏅 **AI for business professionals** - Skill Course HP LIFE (29 September 2025)  
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/shivammeena843-coder/SQL-PowerBI-Excel-Projects/blob/main/Certificate/AI%20for%20business%20professionals.png)
 
-- 🥇 ** Introduction Generative AI – Skill Course E-Learning (15 October 2025)**  
-  <a href="YOUR_INTRODUCTION_GENERATIVE_AI_CERTIFICATE_LINK" target="_blank">
-    <img https://certificates.simplicdn.net/share/9173358_95225811760502066773.pdfsrc="https://img.shields.io/badge/View%20Certificate-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
+🏅 **Generative AI** – Skill Course E-Learning (15 October 2025)  
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://certificates.simplicdn.net/share/9173358_95225811760502066773.pdf)
 ---
 
 ## 📞 Contact Me  
