@@ -53,10 +53,11 @@ Bridging the gap between clean code and actionable insights.
 ### 🔹 Front-end Projects (React & UI)
 - **Blinkit Clone UI:** Modern E-commerce interface with category filtering and responsive design.
   [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivammeena843-coder/Blinkit-Clone-App)
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_DEPLOY_LINK_HERE])
+  
 
 - **React Recipe App:** Dynamic food search engine using MealDB API integration.
   [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)]([YOUR_GITHUB_LINK_HERE])
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)]([[YOUR_DEPLOY_LINK_HERE](https://restaurant-app-six-dusky.vercel.app/)])
 
 ### 🔹 SQL Projects  
 - **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views  
