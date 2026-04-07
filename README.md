@@ -1,20 +1,20 @@
 <div align="center">
  
-# 👋 Hello! I'm Shivam Meena  
-
-#### 🌟 Data Analyst | SQL • Power BI • Excel • AI 🚀  
----
+👋 Hello! I'm Shivam Meena
+Front-end Developer | Data Analyst 🚀
+Bridging the gap between clean code and actionable insights.
 </div>  
 
 
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
+💻 Front-end Dev: Building fast, responsive, and user-centric web applications using React, Vite, and Tailwind CSS.
 
-- 📊 Passionate **Data Analyst** skilled in transforming raw data into **actionable insights**  
-- 🔧 **Core Skills:** SQL • Power BI • Excel • Data Cleaning • Dashboards • Reporting  
-- 🎯 Interested in **Data Visualization & Business Intelligence**  
-- 🤝 Open to **collaborations, analytics projects, and internships**  
-- 💬 Ask me about `SQL`, `Power BI`, `Excel`, or anything data-related!  
+📊 Data Analyst: Skilled in transforming raw data into insights using SQL, Power BI, and Excel.
+
+🎯 Goal: Crafting seamless digital experiences where data meets design.
+
+🤝 Open to: Front-end roles, Data Analytics projects, and Full-stack opportunities.  
 
 
 
@@ -85,9 +85,7 @@
 - 🏅 **AI for business professionals** - Skill Course HP LIFE (29 September 2025)  
   [![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/shivammeena843-coder/SQL-PowerBI-Excel-Projects/blob/main/Certificate/AI%20for%20business%20professionals.png)
 
--🏅 **Generative AI** – Skill Course E-Learning (15 October 2025)  
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://certificates.simplicdn.net/share/9173358_95225811760502066773.pdf)
----
+
 
 ## 📞 Contact Me  
 
