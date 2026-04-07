@@ -57,7 +57,7 @@ Bridging the gap between clean code and actionable insights.
 
 - **React Recipe App:** Dynamic food search engine using MealDB API integration.
   [![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)]([YOUR_GITHUB_LINK_HERE])
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)]([(https://restaurant-app-six-dusky.vercel.app/)])
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)]([(https://restaurant-app-six-dusky.vercel.app/])
 
 ### 🔹 SQL Projects  
 - **Employee Data Cleaning:** Removed duplicates & NULL values, created summary views  
