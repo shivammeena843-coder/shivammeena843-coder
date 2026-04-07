@@ -1,6 +1,6 @@
 <div align="center">
+ 👋 Hello! I'm Shivam Meena
  
-👋 Hello! I'm Shivam Meena
 Front-end Developer | Data Analyst 🚀
 Bridging the gap between clean code and actionable insights.
 </div>  
